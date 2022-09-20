@@ -55,6 +55,7 @@ body{
 
 .list-img{
  display: flex;
+ flex-wrap: wrap;
 }
 
 .list-img li {
